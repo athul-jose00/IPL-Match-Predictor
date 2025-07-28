@@ -119,27 +119,6 @@ The models show strong predictive capability with:
 - Effective handling of categorical variables through one-hot encoding
 - Proper scaling for distance-based algorithms
 
-## 🚀 Future Enhancements
-
-- [ ] Include player-specific statistics
-- [ ] Add weather and pitch condition factors
-- [ ] Implement ensemble voting classifier
-- [ ] Add historical head-to-head records
-- [ ] Include powerplay and death over analysis
-- [ ] Real-time data integration via APIs
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-feature`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature/new-feature`)
-5. Create a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - IPL for providing the cricket data
