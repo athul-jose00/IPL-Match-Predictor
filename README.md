@@ -126,9 +126,7 @@ The models show strong predictive capability with:
 - Streamlit for the web framework
 - Cricket analytics community for inspiration
 
-## 📞 Contact
 
-For questions or suggestions, please open an issue or contact [your-email@example.com]
 
 ---
 
